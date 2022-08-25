@@ -6,3 +6,7 @@ body{
 h1{
     font-size: large;
 }
+#cabecera{
+    border-style: dotted;
+    background-color: beige;
+}
