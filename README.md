@@ -1,0 +1,2 @@
+# Blog
+Platzi curso GIT
